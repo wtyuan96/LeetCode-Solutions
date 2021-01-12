@@ -4,7 +4,7 @@ LeetCode题解，会附带解析和代码。
 
 > **感谢[Datawhale](http://datawhale.club/)组织的组队学习。**
 
-以下是[第21期组队学习](http://datawhale.club/t/topic/1012)中编程实践（LeetCode腾讯精选练习50）题目及对应的题解列表，**`题解`为对应的解析和代码。**
+以下是[第21期组队学习](http://datawhale.club/t/topic/1012)中编程实践（LeetCode腾讯精选练习50）题目及对应的题解列表， **`题解`** 为对应的解析和代码。
 
 | Task | # | 题目 | 题解 | 难度 |
 | ---- | - | --- | ---- | ---- |
