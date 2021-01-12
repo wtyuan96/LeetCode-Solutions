@@ -14,6 +14,8 @@ LeetCode题解，会附带解析和代码。
 | 02 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md) | 简单
 | 02 | 8 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md) | 中等
 
+| 02 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md) | 简单
+
 
 ### 注：
 安装Chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)以显示Github上的markdown文件内的公式。
