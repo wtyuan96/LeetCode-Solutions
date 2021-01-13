@@ -14,6 +14,9 @@ LeetCode题解，会附带解析和代码。
 | 02 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/7.%20%E6%95%B4%E6%95%B0%E5%8F%8D%E8%BD%AC.md) | 简单
 | 02 | 8 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi).md) | 中等
 | 02 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.md) | 简单
+| 03 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md) | 中等 |
+| 03 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md) | 简单 |
+| 03 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 |
 
 
 ### 注：
