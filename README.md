@@ -17,6 +17,9 @@ LeetCode题解，会附带解析和代码。
 | 03 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/11.%20%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.md) | 中等 |
 | 03 | 14 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/14.%20%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md) | 简单 |
 | 03 | 15 | [三数之和](https://leetcode-cn.com/problems/3sum) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/15.%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 |
+| 04 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/16.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 |
+| 04 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md) | 简单 |
+| 04 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 简单 |
 
 
 ### 注：
