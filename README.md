@@ -20,6 +20,9 @@ LeetCode题解，会附带解析和代码。
 | 04 | 16 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/16.%20%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 中等 |
 | 04 | 20 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/20.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md) | 简单 |
 | 04 | 21 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/21.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 简单 |
+| 05 | 23 | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/23.%20%E5%90%88%E5%B9%B6K%E4%B8%AA%E5%8D%87%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 困难 |
+| 05 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.md) | 简单 |
+| 05 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 中等 |
 
 
 ### 注：
