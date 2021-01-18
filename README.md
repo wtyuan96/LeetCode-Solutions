@@ -26,6 +26,9 @@ LeetCode题解，会附带解析和代码。
 | 06 | 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/43.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98.md) | 中等 | | TODO |
 | 06 | 46 | [全排列](https://leetcode-cn.com/problems/permutations) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/46.%20%E5%85%A8%E6%8E%92%E5%88%97.md) | 中等 | | TODO |
 | 06 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md) | 简单 |
+| 07 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) | 中等 | | TODO |
+| 07 | 59 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/59.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%20II.md) | 中等 | | | |
+| 07 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/61.%20%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 中等 |　|  |
 
 
 ### 注：
