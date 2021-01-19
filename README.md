@@ -29,6 +29,9 @@ LeetCode题解，会附带解析和代码。
 | 07 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/54.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.md) | 中等 | | TODO |
 | 07 | 59 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/59.%20%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%20II.md) | 中等 | | | |
 | 07 | 61 | [旋转链表](https://leetcode-cn.com/problems/rotate-list) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/61.%20%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 中等 |　|  |
+| 08 | 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) | 中等 |DP/溢出| TODO |
+| 08 | 70 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 简单 | DP/溢出/快速幂| TODO |
+| 08 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/78.%20%E5%AD%90%E9%9B%86.md) | 中等 | DFS | TODO |
 
 
 ### 注：
