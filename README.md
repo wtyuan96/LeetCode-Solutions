@@ -32,6 +32,9 @@ LeetCode题解，会附带解析和代码。
 | 08 | 62 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/62.%20%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md) | 中等 |DP/溢出| TODO |
 | 08 | 70 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.md) | 简单 | DP/溢出/快速幂| TODO |
 | 08 | 78 | [子集](https://leetcode-cn.com/problems/subsets/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/78.%20%E5%AD%90%E9%9B%86.md) | 中等 | DFS | TODO |
+| 09 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [C++]() | 简单 |  | TODO |
+| 09 | 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [C++]() | 中等 | 位运算/格雷码 |TODO |
+| 09 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [C++]() | 简单 | 二叉树/递归/DFS | |
 
 
 ### 注：
