@@ -35,9 +35,9 @@ LeetCode题解，会附带解析和代码。
 | 09 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md) | 简单 |  | TODO |
 | 09 | 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/89.%20%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.md) | 中等 | 位运算/格雷码 |TODO |
 | 09 | 104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/104.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md) | 简单 | 二叉树/递归/DFS | |
-| 10 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [C++]() | 简单 | DP | |
-| 10 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++]() | 简单 | DP | TODO |
-| 10 | 124 | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [C++]() | 困难 | 二叉树/递归/DP | TODO |
+| 10 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 简单 | DP | |
+| 10 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md) | 简单 | DP | TODO |
+| 10 | 124 | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/124.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 困难 | 二叉树/递归/DP | TODO |
 
 
 ### 注：
