@@ -38,7 +38,11 @@ LeetCode题解，会附带解析和代码。
 | 10 | 121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/121.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md) | 简单 | DP | |
 | 10 | 122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/122.%20%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.md) | 简单 | DP | TODO |
 | 10 | 124 | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/124.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 困难 | 二叉树/递归/DP | TODO |
+| 11| 136 | [只出现一次的数组](https://leetcode-cn.com/problems/single-number/) | [C++]() | 简单 | 哈希表/位运算 | 
+| 11 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++]() | 简单 | 哈希表/双指针 |
+| 11 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/solution/huan-xing-lian-biao-ii-by-leetcode-solution/) | [C++]() | 中等 | 哈希表/双指针 | 
 
 
 ### 注：
 安装Chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)以显示Github上的markdown文件内的公式。
+
