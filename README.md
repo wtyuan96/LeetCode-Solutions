@@ -41,6 +41,8 @@ LeetCode题解，会附带解析和代码。
 | 11| 136 | [只出现一次的数组](https://leetcode-cn.com/problems/single-number/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/136.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md) | 简单 | 哈希表/位运算 | 
 | 11 | 141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/141.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.md) | 简单 | 哈希表/双指针 |
 | 11 | 142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/142.%20%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.md) | 中等 | 哈希表/双指针 | 
+| 12 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [C++]() | 简单 | 栈/$O(1)$ |
+| 12 | 146 | [LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [C++]() | 双向链表/哈希表 | TODO
 
 
 ### 注：
