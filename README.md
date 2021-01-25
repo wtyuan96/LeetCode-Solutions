@@ -44,6 +44,9 @@ LeetCode题解，会附带解析和代码。
 | 12 | 146 | [LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/146.%20LRU%20%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md) | 中等 | 双向链表/哈希表 | TODO
 | 12 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.md) | 中等 |归并排序 | TODO |
 | 12 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.md) | 简单 | 栈/$O(1)$ |
+| 13 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [C++]() | 简单 | 哈希表/双指针 |
+| 13 | 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [C++]() | 简单 | 哈希表/众数 |
+| 13 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++]() | 简单 | |
 
 
 ### 注：
