@@ -47,6 +47,9 @@ LeetCode题解，会附带解析和代码。
 | 13 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.md) | 简单 | 哈希表/双指针 |
 | 13 | 169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/169.%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md) | 简单 | 哈希表/众数 |
 | 13 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md) | 简单 | |
+| 14 | 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [C++]() | 中等 | 排序原理 | |
+| 14 | 217 | [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [C++]() | 简单 | 哈希 |
+| 15 | 230 | [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [C++]() | 中等 | 递归/迭代中序遍历 |
 
 
 ### 注：
