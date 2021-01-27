@@ -50,6 +50,7 @@ LeetCode题解，会附带解析和代码。
 | 14 | 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/215.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E7%AC%ACK%E4%B8%AA%E6%9C%80%E5%A4%A7%E5%85%83%E7%B4%A0.md) | 中等 | 快排/堆 | TODO |
 | 14 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md) | 简单 | 哈希 |
 | 14 | 230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.md) | 中等 | 递归/迭代中序遍历 |
+| 15 | 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/submissions/) | [C++]() | 简单 | 位运算 | 
 
 
 ### 注：
