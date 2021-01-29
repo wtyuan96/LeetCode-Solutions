@@ -56,8 +56,8 @@ LeetCode题解，会附带解析和代码。
 | 16 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md) | 简单 | 链表/内存管理 | 
 | 16 | 238 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md) | 中等 | 预计算 | |
 | 16 | 292 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/292.%20Nim%20%E6%B8%B8%E6%88%8F.md) | 简单 | | |
-| 17 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [C++]() | 简单 | | |
-| 17 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++]() | | |
+| 17 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/344.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md) | 简单 | | |
+| 17 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.md) | 简单 | |
  
 
 ### 注：
