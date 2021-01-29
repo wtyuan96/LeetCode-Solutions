@@ -53,7 +53,12 @@ LeetCode题解，会附带解析和代码。
 | 15 | 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/submissions/) | [C++]() | 简单 | 位运算 | 
 | 15 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++]() | 简单 | 二叉搜索树的性质 |
 | 15 | 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [C++]() | 中等 | 哈希表/递归 | TODO|
-
+| 16 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md) | 简单 | 链表/内存管理 | 
+| 16 | 238 | [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/238.%20%E9%99%A4%E8%87%AA%E8%BA%AB%E4%BB%A5%E5%A4%96%E6%95%B0%E7%BB%84%E7%9A%84%E4%B9%98%E7%A7%AF.md) | 中等 | 预计算 | |
+| 16 | 292 | [Nim 游戏](https://leetcode-cn.com/problems/nim-game/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/292.%20Nim%20%E6%B8%B8%E6%88%8F.md) | 简单 | | |
+| 17 | 344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [C++]() | 简单 | | |
+| 17 | 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [C++]() | | |
+ 
 
 ### 注：
 安装Chrome插件[MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related)以显示Github上的markdown文件内的公式。
