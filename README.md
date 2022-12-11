@@ -7,7 +7,7 @@ LeetCode题解，会附带解析和代码, **`题解`** 为对应的解析和代
 
 | 题目 | 题解 | 难度 | 知识点 | 备注 |
 | --- | --- | --- | --- | --- |
-| [1. 两数之和](eetcode.cn/problems/two-sum/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 简单 | 哈希表 | |
+| [1. 两数之和](https://leetcode.cn/problems/two-sum/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 简单 | 哈希表 | |
 | [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.md) | 中等 | 链表/进位值处理 |
 | [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/4.%20%E5%AF%BB%E6%89%BE%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.md) | 困难 | 二分法 |
 | [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [C++](https://github.com/wtyuan96/LeetCode-Solutions/blob/main/solutions/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md) | 中等 | DP |
